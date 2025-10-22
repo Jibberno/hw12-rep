@@ -58,9 +58,13 @@ body {
   justify-content: space-between;
 }
 
-.side {}
+.side {
+  flex-grow: 1;
+}
 
-.middle {}
+.middle {
+  flex-shrink: 1;
+}
 
 
 /* Don't Mess With This Stuff */
