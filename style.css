@@ -69,6 +69,7 @@ body {
 }
 
 .middle {
+  flex-grow: 2;
   flex-shrink: 1;
   flex-basis: 40px;
 }
