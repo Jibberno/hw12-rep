@@ -31,11 +31,11 @@ body{
 }
 
 .flex{
-  
+  display: flex;
 }
 
 .infl {
-  
+  display: inline-flex;
 }
 
 .start {
