@@ -2,7 +2,7 @@
   color: #000000;
   margin: 0;
   padding: 0;
-  
+
 }
 
 html {
@@ -12,8 +12,8 @@ html {
   text-align: center;
 }
 
-body{
-    margin: 20px 0;
+body {
+  margin: 20px 0;
 }
 
 .item {
@@ -30,7 +30,7 @@ body{
   height: 150px;
 }
 
-.flex{
+.flex {
   display: flex;
 }
 
@@ -47,24 +47,20 @@ body{
 }
 
 .center {
-
+  justify-content: center;
 }
 
 .around {
-
+  justify-content: space-around;
 }
 
 .between {
-
+  justify-content: space-between;
 }
 
-.side {
+.side {}
 
-}
-
-.middle {
-
-}
+.middle {}
 
 
 /* Don't Mess With This Stuff */
